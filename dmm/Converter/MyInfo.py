@@ -1,4 +1,5 @@
 # -*- coding: UTF-8 -*-
+#  mod by mic71 2017-2021
 from Poll import Poll
 from Components.Converter.Converter import Converter
 from enigma import iServiceInformation, iPlayableService, iAudioType_ENUMS as iAt
